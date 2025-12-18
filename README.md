@@ -119,6 +119,5 @@ Users can combine filters to answer questions like:
 ---
 
 
-├── Electric_Vehicles_Dashboard.twbx      # Tableau workbook (if shared)
-└── README.md
+
 
